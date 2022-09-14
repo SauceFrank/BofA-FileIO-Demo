@@ -1,11 +1,10 @@
-# BofA Demo
+# File Upload Demo
 
-18 Concurrent Sessions   
-4 Real Device Sessions
+2 Tests 
 
-Runs test on Bank of America Site.
+Runs test on Berkeley site
 
-Cross Browser, Android, and iOS Real Devices
+Cross Browse
 
 mvn dependency:resolve    
 mvn test-compile
