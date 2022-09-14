@@ -4,7 +4,7 @@
 
 Runs test on Berkeley site
 
-Cross Browse
+Cross Browser
 
 mvn dependency:resolve    
 mvn test-compile
